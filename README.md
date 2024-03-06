@@ -1,5 +1,4 @@
-Le développement d’un jeu de Puissance 4 constitue le cœur de notre projet. La pre
-mière partie de notre rapport est consacrée à la mise en place d’un jeu qui permet à deux
+Le développement d’un jeu de Puissance 4 constitue le cœur de notre projet. La première partie de notre rapport est consacrée à la mise en place d’un jeu qui permet à deux
 joueurs de s’engager dans une lutte stratégique sur ce tableau classique (grille). Nous ex
 posons minutieusement les choix de conception et les structures de données qui facilitent
  une expérience utilisateur fluide et réactive.
